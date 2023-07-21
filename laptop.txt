@@ -1,0 +1,5 @@
+razer blade, razer, $2000, 38
+xps, dell, $1976, 15
+alienware, alienware, $1978, 10
+swift 7, acer, $900, 17
+macbook pro, apple, $3500, 25
